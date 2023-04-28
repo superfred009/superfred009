@@ -1,6 +1,6 @@
 **Personal stuff:**
 
-- 👨‍🎓 Bachelor in Computer Science, Oslo Metropolitan University
+- 👨‍🎓 Bachelor in Computer Science, Oslo Metropolitan University, 2023
 - 👨‍💻 Frontend developer at LMK Group
 - 📫 How to reach me: fredneby@gmail.com
 

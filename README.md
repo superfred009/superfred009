@@ -24,3 +24,6 @@
 
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 
+<img align="left" alt="Tailwindcss" width="26px" src="https://img.icons8.com/color/48/000000/tailwindcss.png" />
+
+<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />

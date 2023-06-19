@@ -29,3 +29,5 @@
 <img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />
 
 <img align="left" alt="Nestjs" width="26px" src="https://img.icons8.com/color/48/000000/nestjs.png" />
+
+<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" />

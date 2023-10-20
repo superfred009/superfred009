@@ -1,7 +1,7 @@
 **Personal stuff:**
 
 - 👨‍🎓 Bachelor in Computer Science, Oslo Metropolitan University, 2023
-- 👨‍💻 Software engineer at LMK Group
+- 👨‍💻 Software engineer at Cheffelo
 - 📫 How to reach me: fredneby@gmail.com
 
 **Tools & languages**
